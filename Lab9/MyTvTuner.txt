@@ -1,0 +1,15 @@
+Volume TV: 50
+Volume TV: 49
+Volume TV: 48
+Tuner is on
+Volume of Tuner: 90
+Volume of Tuner: 89
+Volume of Tuner: 88
+Channel: QTV
+	1. QTV
+	2. NLO TV
+	3. M1
+	4. K1
+	5. ICTV
+	6. TET
+	7. UATV
